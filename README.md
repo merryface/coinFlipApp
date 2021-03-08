@@ -3,4 +3,6 @@ This is an App I created for a Youtube video, to allow folks who have never touc
 
 [You can watch the video here](https://youtu.be/3plIYH1t94s)
 
-The video is a little rough around the edges, but it should be enough to encourage new people to learn how to code. 
+The video is a little rough around the edges, but it should be enough to encourage new people to learn how to code.
+
+[You can see the final project here](https://merryface.github.io/coinFlipApp/)
