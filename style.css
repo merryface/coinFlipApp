@@ -27,6 +27,7 @@ body {
 ol {
     background-color: black;
     border-radius: 10px;
+    max-width: 540px;
 }
 
 li {
